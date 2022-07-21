@@ -12,7 +12,6 @@ const Home = async () => {
             </a>
         </article>
         `).join('')}
-        <button>See more</button>
     </div>`;
     return view;
 };
